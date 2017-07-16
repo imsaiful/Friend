@@ -1,0 +1,9 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>CustomeAdapter</find>
+      <find>size</find>
+      <find>onCreateO</find>
+    </findStrings>
+  </component>
+</application>
